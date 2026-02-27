@@ -122,7 +122,7 @@
       "Elise Chaldjian",
       "Jeremy Sananikone"
     ],
-    "prod_url": "https://todo-api-node-production.up.railway.app/",
-    "staging_url": "https://todo-api-node-staging.up.railway.app/"
+    "prod_url": "https://prodtodo-api-nodedocker-production.up.railway.app",
+    "staging_url": "https://stagingtodo-api-nodedocker-staging.up.railway.app/"
   }
 ]
